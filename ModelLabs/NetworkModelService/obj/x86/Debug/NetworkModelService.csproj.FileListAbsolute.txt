@@ -1,0 +1,26 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete

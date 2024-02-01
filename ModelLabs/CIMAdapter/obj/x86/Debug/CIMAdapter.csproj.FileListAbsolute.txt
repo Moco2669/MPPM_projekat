@@ -1,0 +1,26 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Vezbe\11\ModelLabs\CIMAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\11\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete

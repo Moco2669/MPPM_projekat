@@ -1,0 +1,27 @@
+D:\Vezbe\11\ModelLabs\bin\CIMParser.dll
+D:\Vezbe\11\ModelLabs\bin\CIMParser.pdb
+D:\Vezbe\11\ModelLabs\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\Vezbe\11\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\CIMParser.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\CIMParser.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\ea9a01_1afa95b0b4854a468ceac77902ccc458\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\MODELI_PODATAKA\PROJEKAT\proj\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.AssemblyReference.cache
